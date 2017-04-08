@@ -1,0 +1,333 @@
+/******
+Designed by Shashank Bondugula
+Email:shashi.shashank6@gmail.com
+*******/
+
+body{
+    width:100%;
+    height: 100%;
+     font-family:"Helvetica,Neue",Helvetica,Arial,sans-serif;
+    color: #333333;
+    background-color:#fff;
+    width: 100%;
+    overflow-x: hidden;
+}
+
+h1,h2,h3,h4,h5,h6{
+    margin: 0 0 35px;
+    letter-spacing: 1px;
+}
+nav{
+    padding:-1px!important;
+    background-color: #3333cc!important;
+    border-bottom: none!important;
+}
+.fakeloader{
+  position: relative;
+	top: 0!important;
+	left: 0!important;
+    width: 100%!important%;
+    height: 100%!important;
+    z-index: 9999!important;
+    vertical-align: middle!important;
+}
+.body-space{
+    overflow-y: hidden!important;
+}
+.navbar-brand{
+    font-weight: 700;
+    font-size: 38px;
+    font-family:"Californian FB"!important;
+    vertical-align: middle;
+    margin-top: 5px;
+    line-height: 0.7em;
+}
+#navbar{
+    margin-top: 20px;
+    z-index: 9999;
+}
+.navbar-brand b{
+     color:#fff!important;
+}
+.navbar .nav li a{
+    -webkit-transition:background .3s ease-in-out;
+    transition: background .3s ease-in-out;
+    font-size: 18px;
+    color: #fff!important;
+    padding: 6px;
+    margin-bottom: 1px;
+    margin-top: -4px;
+    font-size: 16px;
+}
+.navbar  .nav  li a:hover{
+    outline: none;
+    background-color:#fc7700;
+    color:#f4f4f4!important;
+    border-radius: 5px;
+}
+.navbar-toggle{
+    padding: 4px 6px;
+    font-size: 16px;
+    color: #f4f4f4;
+}
+.bar{
+    color:#e67e22;
+}
+
+#who{
+margin-top: 10px!important;
+}
+#who p{
+    width: 70%;
+    text-align: justify;
+    margin: auto;
+    line-height: 2em;
+    font-size: 18px;
+}
+#e-wastemanagement{
+    margin-top: 40px;
+    
+}
+#e-wastemanagement p{
+    text-align: justify;
+}
+#contact{
+    padding-bottom: 80px;
+}
+.contact-heading{
+    margin-left: 250px;
+    margin-bottom: 150px!important;
+}
+.form-heading{
+    margin-right: 300px;
+    margin-top: -130px;
+}
+.first-box{
+    border:1px solid #f4f4f4;
+    padding: 55px!important;
+    background-color: #f4f4f4;
+    margin:1em;
+    width:47%!important;
+    margin-top: 50px!important;
+    height: 550px!important;
+}
+.second-box{
+    padding: 50px!important;
+} 
+.second-box:hover{
+    padding: 50px!important;
+}
+.first-box:hover{
+    background-color: #333333;
+    color:#fff;
+    padding: 50px!important;
+    
+}
+.first-box-one{
+   padding: 54px!important;
+}
+.first-box-one:hover{
+   padding: 54px!important;
+}
+.box ul li span{
+    margin-left:-240px;
+}
+#contact{
+    margin-top: 100px;
+}
+#contact p{
+    margin-top:-3px;
+}
+.text-justify{
+    text-align: center;
+}
+footer{
+    background-color: #f4f4f4;
+}
+footer p{
+    padding: 15px;
+    margin-top: 20px;
+}
+.content-section{
+    padding-top:100px;
+}
+.form-control{
+    box-shadow: none!important;
+    border-radius:0;
+    
+}
+.contact-heading{
+    margin-bottom: 70px;
+    margin-left:320px;
+}
+.text{
+    text-align: justify;
+}
+ .navbar-inverse .navbar-nav .active a, #navigation .navbar-inverse .navbar-nav .active a:focus, .navbar-nav.navbar-right li a:hover {
+    color: #fff!important;
+    background-color: #fc7700!important;
+     padding: 6px!important;
+     border-radius: 5px!important;
+}
+.designer{
+     font-size:11px;
+     padding-bottom:20px;
+}
+.text-products{
+    text-align: justify;
+    padding: 0 250px;
+    line-height: 2em;
+    font-size: 18px;
+}
+#images-intro{
+    margin-bottom: 80px;
+}
+.owl-demo .item{
+  margin: 3px;
+}
+.owl-demo .item img{
+  display: inline;
+  width: 100%;
+  height: auto;
+  margin-top: 20px;
+}
+.canon h4{
+    font-size: 16px;
+}
+.xerox h4{
+    font-size: 16px;
+}
+
+.canon img{
+    height: auto;
+    vertical-align: middle;
+}
+.xerox img{
+    height: auto;
+    vertical-align: middle;
+}
+.canon h2{
+    font-size: 24px;
+    margin-top: 70px;
+}
+.xerox h2{
+    font-size: 24px;
+    margin-top:70px;
+}
+.owl-prev img{
+    font-size: 100px!important;
+    color:#000!important;
+    font-weight:lighter!important;
+    vertical-align: middle!important;
+    margin-top:35px!important;
+}
+.owl-next img{
+    font-size: 100px!important;
+    font-weight:lighter!important;
+    color:#000!important;
+    vertical-align: middle!important;
+    margin-top:36px!important;
+}
+.canon owl-prev img{
+     font-size: 100px!important;
+    color:#000!important;
+    font-weight:lighter!important;
+    vertical-align: middle!important;
+    margin-top:35px!important;
+}
+.xerox owl-prev img{
+     font-size: 100px!important;
+    color:#000!important;
+    font-weight:lighter!important;
+    vertical-align: middle!important;
+    margin-top:36px!important;
+}
+.konica{
+    margin-top: 80px;
+}
+.email-tab{
+    margin-left: 15px;
+}
+.number-field{
+    margin-left: 0;
+}
+textarea{
+    margin-top: 70px;
+    margin-left: 15px;
+}
+.button{
+    margin-right: 215px;
+}
+form{
+    margin-left: 50px;
+}
+.wider-formats .img-one{
+    margin-top: -60px!important;
+}
+.wider-formats .img-two img{
+    margin-top: 70px;
+    margin-left: 25px;
+}
+.wider-formats .img-two-heading{
+    margin-top: 25px;
+}
+.wider-formats .img-three img
+{
+margin-top: 30px!important;
+     margin-left: 60px;
+}
+
+.wider-formats .item-five  h4{
+    margin-top: 60px;
+}
+.wider-formats .item-six  h4{
+    margin-top: 25px!important;
+}
+.wider-formats .item-seven  h4{
+    margin-top: 75px;
+}
+.wider-formats .img-four img
+{
+     margin-left: 45px;
+}
+.wider-formats .img-three-3 img{
+    margin-left: 5px;
+    margin-top: 40px!important;
+}
+.wider-formats .img-five img
+{
+margin-top: 100px;
+    margin-left: 0px!important;
+}
+#intro{
+    height: 100%;
+    width: 100%;
+    z-index: 1;
+}
+#intro img{
+    height: 613px;
+    width: 100%;
+}
+.wider-formats img{
+    margin-top: -10px!important;
+}
+.wider-formats .img-three{
+    margin-left:-100px;
+}
+.wider-formats .img-four{
+    margin-left:-100px;
+}
+.wider-formats .img-five img{
+    margin-left: -100px;
+    padding-top: 25px;
+}
+.message-tab{
+    margin-left: auto;
+    margin-top: auto;
+}
+.button{
+     margin-left: -80px;
+    margin-top: auto;
+}
+
+
